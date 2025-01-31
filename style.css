@@ -24,5 +24,7 @@ html {
 }
 
 svg{
-    font-size: 45px;
+    width: 45px;
+    display: block;
+    margin: auto;
 }
